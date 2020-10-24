@@ -1,0 +1,37 @@
+body{
+
+    background-color: rgb(208, 245, 245);
+    background-image:url("https://image.freepik.com/foto-gratis/tonos-colores-suaves_23-2147734213.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+h1{
+    color: white;
+    font-family: ´Popins´,sans-serif;
+    text-align: center;
+}
+#logueo, #guardar{
+    background-color: pink;
+    color: white;
+    border:1px solid white;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+ #logueo:hover, #guardar:hover{
+        background-color: rgb(76, 200, 231);
+        color:rgb(29, 28, 28);
+    }
+    #contenedor{
+        width: auto;
+        text-align: center;
+}
+#foto{
+        width:50%;
+        height:400px;
+        margin:0 auto;
+        position: relative;
+        background-image:url("https://alexorl.edu.eg/congress/wp-content/uploads/2018/10/welcome.png");
+        background-size: contain;
+        background-repeat:no-repeat;
+    }
