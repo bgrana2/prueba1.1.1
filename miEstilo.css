@@ -20,7 +20,7 @@ h1{
 }
  #logueo:hover, #guardar:hover{
         background-color: rgb(76, 200, 231);
-        color:rgb(29, 28, 28);
+        color:white;
     }
     #contenedor{
         width: auto;
